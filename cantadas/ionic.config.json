@@ -1,0 +1,7 @@
+{
+  "name": "cantadas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
